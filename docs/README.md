@@ -21,7 +21,7 @@ New to OctoAcme projects? Start here:
 OctoAcme projects follow a five-phase lifecycle:
 
 | Phase | Document | Purpose |
-|-------|----------|---------|
+|-------|----------|----------|
 | **Initiation** | [Project Initiation Guide](octoacme-project-initiation.md) | Validate business need, align stakeholders, create a lightweight plan |
 | **Planning** | [Project Planning](octoacme-project-planning.md) | Break work into shippable increments, identify dependencies and risks |
 | **Execution** | [Execution & Tracking](octoacme-execution-and-tracking.md) | Manage day-to-day execution, track progress toward milestones |
